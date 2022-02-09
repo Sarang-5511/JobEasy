@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+
+ 
+}
+.navbar{
+    margin: 0 auto;
+    padding: 20px 80px;
+}
+.navbar-brand{
+    font-size: 1.75em;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.nav-link{
+    color: rgb(255, 255, 255);
+    margin-bottom: 0;
+}
+.nav-link:hover{
+    color: rgb(236, 236, 232);
+}
+.cont{
+    height: fit-content;
+    padding: 20px 35px;
+    margin: 20px auto 40px;
+    width: 59%;
+background-color: rgb(255, 255, 255);
+border: none;
+
+box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+
+
+}
+h1{
+    font-size: 1.75em;
+}
+.heading{
+    padding-bottom: 30px;
+}
+.btnviewmore{
+    border: none;
+    width: 250px;
+    height: 60px;
+    color: wheat;
+    background-color: rgb(0, 0, 0);
+    text-decoration: none !important;
+    padding: 5px 10px;
+    margin-top: 30px;
+}
+.btnviewmore:hover{
+    color: white;
+    background-color: rgb(14, 13, 13);
+   margin-top: 20px;
+}
+.detials-job{
+    margin-bottom: 10px;
+    height:380px;
+    padding: 15px;
+    margin: 20px auto 40px;
+    width: 50%;
+background-color: rgb(255, 255, 255);
+border: none;
+
+box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+}
+
+table,td{
+    padding: 10px 0;
+}
+.edit-buttons{
+    margin-top: 20px;
+    
+    
+}
+.btnupdate{
+    border: none;
+    letter-spacing: 1px;
+    padding: 5px;
+    margin-right: 10px;
+    width:100px;
+    height: 30px;
+    background-color: rgb(251, 255, 0);
+    text-decoration: none !important;
+    color: black;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.btndelete{
+    border: none;
+    padding: 5px;
+    letter-spacing: 1px;
+    margin-right: 10px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(255, 37, 37);
+    text-decoration: none !important;
+    color: black;
+    cursor: pointer;
+    border-radius: 3px;
+
+}
+.btnupdate:hover{
+    background-color: rgb(251, 255, 32);
+    color: rgb(34, 32, 32);
+    font-weight: 700;
+}
+.btndelete:hover{
+    background-color: rgb(240, 68, 68);
+    color: rgb(34, 32, 32);
+    font-weight: 700;
+}
+.btncreate{
+    color: rgb(0, 0, 0);
+background-color: rgb(43, 175, 17);
+    width: 140px;
+    height: 40px;
+    padding: 10px;
+    letter-spacing: 1px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+#current_time{
+    float: right;
+}
+.sortjobtitle{
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.title{
+    font-size: 18px;
+    text-decoration: underline;
+}
+.intial-heading h2{
+    font-size: 32px;
+    font-weight: 500;
+}
+.intial-heading p{
+    font-size: 12px;
+    font-weight: 400;
+}
+.backbut{
+    margin-top: 10px;
+    border: none;
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    text-decoration: none !important;
+}
+.backbut:hover{
+    background-color: rgb(29, 28, 28);
+    color: beige;
+}

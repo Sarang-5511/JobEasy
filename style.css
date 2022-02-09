@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    background-image: url(background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.navbar{
+    padding: 0 40px;
+}
+.signcont{
+    width: 300px;
+    padding: 8px 15px;
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+   
+    margin: 180px auto 0;
+    height: 250px;
+   
+}
+.heading{
+    margin-bottom: 15px;
+    padding: 5px 0;
+    border-bottom: 1px solid black;
+}
+.heading h3{
+    font-weight: 400;
+
+}
+
+input[type=text]:focus{
+    border: 1px solid black;
+    outline: none;
+    
+}
