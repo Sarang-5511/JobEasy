@@ -1,6 +1,7 @@
 # JobEasy
 
 A platform which helps you create jobs.
+created using php, ajax and mysql.
 
 ![Screenshot (1069)](https://user-images.githubusercontent.com/67181267/153215755-553f11a2-d036-4af0-a758-097c786736aa.png)
 
